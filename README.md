@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm PRAVIN.R</h1>
 <h3 align="center">A passionate java developer | Web developer from India</h3>
 
-- 🔭 I’m currently working on [Back_Bone](https://github.com/pravin4422/Back_Bone.git)
+- 🔭 I’m currently working on [After 12th](https://github.com/pravin4422/Back_Bone.git)
 
-- 🌱 I’m currently learning **Mechine Learning, Artificial intelligence**
+- 🌱 I’m currently learning **Mechine Learning, Artificial intelligence , Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pravin4422](https://github.com/pravin4422)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rpravin4422@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **Today is not out day **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
