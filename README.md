@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rpravin4422@gmail.com**
 
-- ⚡ Fun fact **Today is not out day **
+- ⚡ Fun fact **Today is not our day **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
